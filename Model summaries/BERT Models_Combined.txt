@@ -1,0 +1,5 @@
+Model_O <bound method Model.summary of <tensorflow.python.keras.engine.functional.Functional object at 0x7fea94766880>>
+Model_C <bound method Model.summary of <tensorflow.python.keras.engine.functional.Functional object at 0x7fe9cffc58b0>>
+Model_E <bound method Model.summary of <tensorflow.python.keras.engine.functional.Functional object at 0x7fe9b864a250>>
+Model_A <bound method Model.summary of <tensorflow.python.keras.engine.functional.Functional object at 0x7fe9a2131be0>>
+Model_N <bound method Model.summary of <tensorflow.python.keras.engine.functional.Functional object at 0x7fe98bbab850>>
